@@ -241,7 +241,7 @@ export default function LandingPage() {
 
                   <div className='flex flex-col gap-[16px]'>
                     <h1 className="inter text-[28px] text-primary font-semibold">Record Screen</h1>
-                    <span className='work-sans text-[20px] leading-[30.26px]'>Click the "Start Recording" button in our extension.  choose which part of your screen to capture and who you want to send it to.</span>
+                    <span className='work-sans text-[20px] leading-[30.26px]'>Click the &quot;Start Recording button&quot; in our extension.  choose which part of your screen to capture and who you want to send it to.</span>
                     <div className='w-full'>
                       <Image src={demo_vid} width={0} height={0} alt="demo vid" className='w-full h-[250px]' />
                     </div>
