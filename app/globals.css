@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.sora{
+  font-family: 'Sora', sans-serif;
+}
+.nav{
+  font-family: 'Work Sans', sans-serif;
+}
+.inter{
+  font-family: 'Inter', sans-serif;
+}
+.work-sans{
+  font-family: 'Work Sans', sans-serif;
+
+}
