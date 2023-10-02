@@ -24,7 +24,7 @@ export default function LandingPage() {
          </div>
           <div className='flex items-center justify-between w-full h-full px-[100px]'>
               <div className='w-[548px]'>
-                  <h1 className='sora text-[64px] mb-[20px] leading-[64px]'>Show Them Don’t Just Tell</h1>
+                  <h1 className='sora text-[64px] mb-[20px] leading-[64px]'>Show Them Don&quot;t Just Tell</h1>
                   <h4 className='inter text-[20px] mb-[48px] leading-[28px]'>Help your friends and loved ones by creating and sending videos on how to get things done on a website.</h4>
                   <button className='px-[24px] py-[22px] rounded-[8px] bg-primary text-white'>Install HelpMeOut <span className='text-lg'>&rarr;</span></button>
               </div>
