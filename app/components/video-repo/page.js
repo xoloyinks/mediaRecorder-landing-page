@@ -91,23 +91,23 @@ export default function VideoRep() {
                         </div>
                         <div className='flex  gap-[24px] text-[20px] w-[80%]  font-[500] mt-8'>
                             <span className='leading-[26.084px] mr-10'>0.01</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex text-[20px] w-[80%] gap-[24px] font-[500]'>
                             <span className='leading-[26.084px] mr-10'>0.15</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex text-[20px] w-[80%] gap-[24px] font-[500]'>
                             <span className='leading-[26.084px] mr-10'>0.30</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex text-[20px] w-[80%] gap-[24px] font-[500]'>
                             <span className='leading-[26.084px] mr-10'>1.00</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex text-[20px] w-[80%] gap-[24px] font-[500]'>
                             <span className='leading-[26.084px] mr-10'>1.15</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         
                     </div>
