@@ -6,11 +6,11 @@ export default function Nav() {
   return (
     <>
         <section className='w-screen items-center flex justify-between px-[100px] py-[24px] nav'>
-            <div className='flex gap-2 items-center'>
+            <div className='flex items-center gap-2'>
                 <span>
                     <Image src={logo} width={0} height={0} alt='HelpMeOut logo' className='w-[40px] h-[40px]' />
                 </span>
-                <span className='sora text-primary font-semibold'>
+                <span className='font-semibold sora text-primary'>
                     HelpMeOut
                 </span>
             </div>
