@@ -97,23 +97,23 @@ export default function Recorded() {
                         </div>
                         <div className='flex gap-[24px] font-[500]'>
                             <span className='leading-[26.084px]'>0.01</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex gap-[24px] font-[500]'>
                             <span className='leading-[26.084px]'>0.15</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex gap-[24px] font-[500]'>
                             <span className='leading-[26.084px]'>0.30</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex gap-[24px] font-[500]'>
                             <span className='leading-[26.084px]'>1.00</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         <div className='flex gap-[24px] font-[500]'>
                             <span className='leading-[26.084px]'>1.15</span>
-                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate "Marketplace" in the left-hand menu or at the top of the </span>
+                            <span className='leading-[26.084px]'>First step. Open Facebook on your desktop or mobile device and locate &quot;Marketplace&quot; in the left-hand menu or at the top of the </span>
                         </div>
                         
                     </div>
@@ -133,7 +133,7 @@ export default function Recorded() {
                 </button>
 
                 <div className='text-[24px] font-[600]'>
-                    <span className='opacity-60'>Don’t have an account? </span>
+                    <span className='opacity-60'>Don&ldquo;t have an account? </span>
                     <a href='#' className='text-primary'>Create account</a>
                 </div>
             </div>
